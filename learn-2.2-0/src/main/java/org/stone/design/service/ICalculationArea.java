@@ -1,5 +1,9 @@
 package org.stone.design.service;
 
+
+/**
+ * 面积计算接口
+ */
 public interface ICalculationArea {
     /**
      * 计算面积，长方形
