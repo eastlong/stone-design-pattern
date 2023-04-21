@@ -1,5 +1,8 @@
 package org.stone.design.service.impl;
 
+/**
+ * 开闭原则
+ */
 public class CalculationAreaExt extends CalculationArea {
 
     private final static double π = 3.141592653D;

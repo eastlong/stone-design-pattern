@@ -9,10 +9,13 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>learn-10.0-1</module>
         <module>learn-2.1-0</module>
         <module>learn-2.1-1</module>
         <module>learn-2.2-0</module>
+        <module>learn-2.3.0</module>
+        <module>learn-2.3.1</module>
+        <module>learn-2.4.0</module>
+        <module>learn-2.4.1</module>
     </modules>
 
     <properties>

@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>learn-10.0-1</artifactId>
+    <artifactId>learn-2.4.1</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
